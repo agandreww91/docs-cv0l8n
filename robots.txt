@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-kh7ta7.aisickness.com/sitemap.xml
